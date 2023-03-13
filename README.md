@@ -1,3 +1,3 @@
 # campo_minado
 
-A new Flutter project.
+Projeto feito em flutter do jogo campo minado
